@@ -24,7 +24,7 @@ Installation
 
 1) Clone the repository:
 
-git clone https://github.com/Consouldenature/Drum-kit.git
+git clone https://github.com/AthanasiosOikonomou/Drum-kit.git
 
 2) Open the project directory:
 
